@@ -20,7 +20,7 @@ Compile the program with:
 ```bash
 gcc -Ofast -m32 -Wall -Wextra -Werror -pedantic -o dna dna.c -lm
 ```
-🏃 How to Run
+## 🏃 How to Run
 Basic usage:
 ```bash
 ./dna file1.dna file2.dna
